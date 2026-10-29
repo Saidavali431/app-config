@@ -1,4 +1,4 @@
 build:
-  id: ${id}
-  name: ${name}
-  version: ${version}
+  id: 175
+  name: git default build
+  version: 7.5
